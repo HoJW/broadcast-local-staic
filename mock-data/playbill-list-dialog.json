@@ -1,0 +1,20 @@
+{
+    "list": [
+        {
+            "id":"10000",
+            "channelName":"城市生活",
+            "channel":"FM 102.7",
+            "remake":"城市生活信息相关播报",
+            "audioSize":"3.5M",
+            "audioLength":"5:25"
+        },
+        {
+            "id":"10001",
+            "channelName":"交通之声",
+            "channel":"FM 105.7",
+            "remake":"交通信息相关播报",
+            "audioSize":"3.5M",
+            "audioLength":"3:26"
+        }
+    ]
+}

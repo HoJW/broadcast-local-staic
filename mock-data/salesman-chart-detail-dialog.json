@@ -1,0 +1,28 @@
+{
+    "list": [
+        {
+            "id":"10000",
+            "userName":"业务员1",
+            "org":"区域1",
+            "dept":"部门1",
+            "setupCount":"23",
+            "repairCount":"320"
+        },
+        {
+            "id":"10001",
+            "userName":"业务员2",
+            "org":"区域1",
+            "dept":"部门1",
+            "setupCount":"233",
+            "repairCount":"20"
+        },
+        {
+            "id":"10002",
+            "userName":"业务员3",
+            "org":"区域1",
+            "dept":"部门1",
+            "setupCount":"153",
+            "repairCount":"5"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "list": [
+        {
+            "id":"10000",
+            "title":"紧急地震避难",
+            "decp":"XXX地区发生地震，急需提醒市民进行紧急疏散",
+            "audioName":"紧急",
+            "audioPath":"",
+            "status":"广播中"
+        },
+        {
+            "id":"10001",
+            "title":"紧急地震避难",
+            "decp":"XXX地区发生地震，急需提醒市民进行紧急疏散",
+            "audioName":"紧急",
+            "audioPath":"",
+            "status":"已结束"
+        }
+    ]
+}

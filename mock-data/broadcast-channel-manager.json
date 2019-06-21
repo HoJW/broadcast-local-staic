@@ -1,0 +1,16 @@
+{
+    "list": [
+        {
+            "id":"10000",
+            "channelName":"城市生活",
+            "channel":"FM 102.7",
+            "remake":"城市生活信息相关播报"
+        },
+        {
+            "id":"10001",
+            "channelName":"城市生活",
+            "channel":"FM 102.7",
+            "remake":"城市生活信息相关播报"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "list": [{
+        "value": "1",
+        "label": "前导音A"
+        }, {
+        "value": "2",
+        "label": "前导音B"
+        }, {
+        "value": "3",
+        "label": "前导音C"
+        }]
+}

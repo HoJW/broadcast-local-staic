@@ -1,0 +1,40 @@
+{
+    "list": [
+        {
+            "id":"10000",
+            "programName":"社会主义新风貌",
+            "programDetail":"我的中国心",
+            "sendObj":"机构一、机构二",
+            "startTime":"AM 9:00",
+            "endTime":"PM 9:00",
+            "round":"每天",
+            "roundTime":"3",
+            "status":"1",
+            "voiceLevel":"10"
+        },
+        {
+            "id":"10000",
+            "programName":"社会主义新风貌",
+            "programDetail":"我的中国心",
+            "sendObj":"机构一、机构二",
+            "startTime":"AM 9:00",
+            "endTime":"PM 9:00",
+            "round":"每天",
+            "roundTime":"2",
+            "status":"2",
+            "voiceLevel":"10"
+        },
+        {
+            "id":"10000",
+            "programName":"社会主义新风貌",
+            "programDetail":"我的中国心",
+            "sendObj":"机构一、机构二",
+            "startTime":"AM 9:00",
+            "endTime":"PM 9:00",
+            "round":"每天",
+            "roundTime":"10",
+            "status":"3",
+            "voiceLevel":"10"
+        }
+    ]
+}

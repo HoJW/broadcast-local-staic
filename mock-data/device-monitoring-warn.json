@@ -1,0 +1,42 @@
+{
+    "list": [{
+        "id":10001,
+        "warnNum":"3",
+        "warnTitle":"连接异常"
+    },
+    {
+        "id":10002,
+        "warnNum":"5",
+        "warnTitle":"供电异常"
+    },
+    {
+        "id":10003,
+        "warnNum":"6",
+        "warnTitle":"防拆异常"
+    },
+    {
+        "id":10004,
+        "warnNum":"7",
+        "warnTitle":"信号异常"
+    },
+    {
+        "id":10005,
+        "warnNum":"0",
+        "warnTitle":"音量异常"
+    },
+    {
+        "id":10006,
+        "warnNum":"0",
+        "warnTitle":"电压异常"
+    },
+    {
+        "id":10007,
+        "warnNum":"1",
+        "warnTitle":"电量异常"
+    },
+    {
+        "id":10008,
+        "warnNum":"56",
+        "warnTitle":"防移异常"
+    }]
+}

@@ -1,0 +1,27 @@
+{
+    "list": [
+        {
+            "id":"10000",
+            "programName":"社会主义新风貌",
+            "programDetail":"FM 102.7",
+            "sendObj":"机构一、机构二",
+            "startTime":"AM 9:00",
+            "endTime":"PM 9:00",
+            "round":"周一 周三",
+            "roundTime":"3",
+            "voiceLevel":"5"
+            
+        },
+        {
+            "id":"10000",
+            "programName":"社会主义新风貌",
+            "programDetail":"FM 102.7",
+            "sendObj":"机构一、机构二",
+            "startTime":"AM 9:00",
+            "endTime":"PM 9:00",
+            "round":"每天",
+            "roundTime":"2",
+            "voiceLevel":"10"
+        }
+    ]
+}

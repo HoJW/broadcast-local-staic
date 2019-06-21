@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "id":10000,
+            "imei":"123456789012",
+            "username":"测试用户",
+            "phone":"13777777778",
+            "groupName":"分组一",
+            "tenGroupName":"分组一",
+            "status":"已锁屏"
+        },
+        {
+            "id":10000,
+            "imei":"123456789012",
+            "username":"测试用户",
+            "phone":"13777777778",
+            "groupName":"分组一",
+            "tenGroupName":"分组一",
+            "status":"末锁屏"
+        }
+    ]
+}
