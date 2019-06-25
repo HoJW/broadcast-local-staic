@@ -1,0 +1,12 @@
+{
+    "list": [{
+        "value": "1",
+        "label": "分组A"
+        }, {
+        "value": "2",
+        "label": "分组B"
+        }, {
+        "value": "3",
+        "label": "分组C"
+        }]
+}
