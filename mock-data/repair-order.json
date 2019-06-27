@@ -10,10 +10,11 @@
             "mistakeType":"信号异常",
             "username":"测试用户",
             "phone":"14968235629",
-            "status":"已完成"
+            "statusLabel":"已完成",
+            "status":"1"
         },
         {
-            "orderId":"10000",
+            "orderId":"10001",
             "time":"1970-05-03",
             "menber":"测试用户",
             "imei":"159235239236",
@@ -22,7 +23,21 @@
             "mistakeType":"信号异常",
             "username":"测试用户",
             "phone":"14968235629",
-            "status":"处理中"
+            "statusLabel":"处理中",
+            "status":"2"
+        },
+        {
+            "orderId":"10002",
+            "time":"1970-05-03",
+            "menber":"测试用户",
+            "imei":"159235239236",
+            "deviceType":"A380",
+            "orderType":"维修",
+            "mistakeType":"信号异常",
+            "username":"测试用户",
+            "phone":"14968235629",
+            "statusLabel":"待处理",
+            "status":"3"
         }
     ]
 }
